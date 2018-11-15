@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleCode</string>
+    <string name="kotlinbutton">kotlinButton</string>
+    <string name="javabutton">JavaButton</string>
+    <string name="startbutton">startActivity</string>
+    <string name="kotlin_anko"><![CDATA[Kotlin&Anko]]></string>
+    <string name="kotlin">Kotlin</string>
+    <string name="anko_intent">Anko+Intent</string>
+</resources>
